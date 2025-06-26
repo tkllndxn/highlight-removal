@@ -7,7 +7,8 @@ This repository contains code for the MICCAI 2025 paper **"A Two-Stage Method fo
 > **Note:** If you use this code, please cite the upcoming paper once it is published and indexed.
 
 ## Dataset
-
+ CVC dataset download link：https://pan.baidu.com/s/1d8TOgcwZGD7f9aOqfudIOw?pwd=hyc4 提取码: hyc4
+ 
 We currently release only the public **CVC-Clinic Dataset**. This dataset does **not** include ground-truth specular masks. All specular annotations and preprocessing scripts in this repository are products of our work; please cite our paper when using them.
 
 ## Code Overview
