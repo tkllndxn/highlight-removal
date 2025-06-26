@@ -53,6 +53,8 @@ python predict1.py \
   * **mask-d** (optional): dilated mask if dilation is specified
 
 ### Stage 2: Full Two-Stage Pipeline
+Download the pre-trained models and place them in the lama-main\big-lama\models directory.
+“https://huggingface.co/smartywu/big-lama/resolve/main/big-lama.zip”
 
 ```bash
 python run.py \
